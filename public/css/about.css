@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.d-flex{
+    display: flex;
+    justify-content: center;
+}
+
+h1{
+    font-size: 50px;
+    color: black;
+    letter-spacing: 10px;
+}
+
+
+.box{
+    background-image: url("../team.png");
+    background-color: #c8c8ca;
+    background-size: cover;
+    background-position: top;
+    height: calc(100vh - 60px);
+}
