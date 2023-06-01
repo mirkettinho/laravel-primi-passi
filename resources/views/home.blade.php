@@ -7,6 +7,9 @@
     <title>Home</title>
 </head>
 <body>
+
+@include("partials.header")
+
     <h1>Home</h1>
 </body>
 </html>
